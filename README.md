@@ -8,7 +8,7 @@
 
 ## 🚀 Live Demo
 
-🌐 [Click here to chat live]()  
+🌐 [Click here to chat live](https://real-time-chat-silk-three.vercel.app/)  
 🧪 Test it with a friend — create a room, share the code, and chat instantly.
 
 
@@ -32,5 +32,4 @@
 ✅ WhatsApp-style chat bubbles  
 ✅ Beautiful toasts for UX feedback  
 ✅ Fully deployed frontend + backend  
-
 
