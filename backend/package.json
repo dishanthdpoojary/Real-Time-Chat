@@ -1,0 +1,31 @@
+{
+  "name": "real-time-chat-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "tsc -b && node ./dist/index.js",
+    "build": "tsc",
+    "start": "node ./dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skanda-prasaad/Real-time-chat-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skanda-prasaad/Real-time-chat-app/issues"
+  },
+  "homepage": "https://github.com/skanda-prasaad/Real-time-chat-app#readme",
+  "dependencies": {
+    "@types/express": "^5.0.3",
+    "@types/ws": "^8.18.1",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "typescript": "^5.8.3",
+    "ws": "^8.18.3"
+  }
+}
